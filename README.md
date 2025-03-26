@@ -23,6 +23,4 @@ It’s a simple project to help me learn the basics.
 
 ## To-Do List
 - [x] Write the Dice Rolling Game code in `projects` folder.
-- [ ] Test the game to make sure it works.
-- [ ] Maybe add a feature to roll more than two dice.
-- [ ] Start a new project (like a number guessing game).
+- [x] Write the Number Guessing Game code in `projects` folder.
