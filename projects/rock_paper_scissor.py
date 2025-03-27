@@ -7,6 +7,7 @@ while True:
     user_choice = input("Rock, paper, or scissors? (r/p/s): ").lower()
     if user_choice not in choices:
         print("Invalid choice!")
+        continue
 
     computer_choice = random.choice(choices)
 
