@@ -24,4 +24,3 @@ It’s a simple project to help me learn the basics.
 ## To-Do List
 - [x] Write the Dice Rolling Game code in `projects` folder.
 - [x] Write the Number Guessing Game code in `projects` folder.
-- [ ] - Write the Mario Game code in `projects` folder.
